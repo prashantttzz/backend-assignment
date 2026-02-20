@@ -9,10 +9,9 @@ This project demonstrates scalable backend architecture, clean frontend integrat
 # 🌐 Live Demo
 
 **Frontend (Vercel):** https://backend-assignment-prashant.vercel.app
-**Backend API (Render/Railway):** https://your-backend.onrender.com
-**Swagger Docs:** https://your-backend.onrender.com/api-docs
+**Backend API (Render/Railway):** https://backend-assignment-def8.onrender.com
+**Swagger Docs:** https://backend-assignment-def8.onrender.com/api-docs
 
-*(Replace with your deployed URLs)*
 
 You can directly test all APIs from Swagger or use the live UI.
 
@@ -170,7 +169,7 @@ Authorization: Bearer <JWT_TOKEN>
 Open Swagger UI:
 
 ```
-https://your-backend.onrender.com/api-docs
+ https://backend-assignment-def8.onrender.com/api-docs
 ```
 
 From here you can:
